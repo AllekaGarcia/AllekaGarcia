@@ -10,6 +10,11 @@
 <button onclick="document.getElementById('myImage').src='off.png'">Off</button>
 
 <button onclick="document.getElementById('myImage').src='on.png'">On</button>
+<button onclick="document.getElementById('myImage').src='on.png'"> off </button>
+
+<img id="myImage" src="on.png" style="width:500px">
+
+<button onclick="document.getElementById('myImage').src='off.png'"> on</button>
 
 <img id="myImage" src="off.png" style="width:100px">
 
