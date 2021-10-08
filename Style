@@ -8,7 +8,8 @@ body {
 
 /* Style the header */
 header {
-  background-color: #bd15af;
+  background-color:#ff6666
+;
   padding: 30px;
   text-align: center;
   font-size: 35px;
@@ -20,7 +21,8 @@ nav {
   float: left;
   width: 15%;
   /*height: 300px;  only for demonstration, should be removed */
-  background: #3d3838;
+  background: #fbb158;
+;
  padding: 20px;
 }
 
@@ -34,7 +36,8 @@ article {
   float: left;
   padding: 20px;
   width: 70%;
-  background-color: #e67edd;
+  background-color: #ffe3d4
+;
   /* height: 300px;  only for demonstration, should be removed */
 }
 
@@ -47,7 +50,8 @@ section:after {
 
 /* Style the footer */
 footer {
-  background-color: #bd15af;
+  background-color:#ff6666
+;
   padding: 10px;
   text-align: center;
   color: white;
